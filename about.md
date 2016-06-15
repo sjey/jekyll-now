@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am Jey and work as a devops engineer in one of the leading tech company. I worked for companies like yahoo, aws, etc!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a master degree in computer application. My pasion is about automation, CI/CD, Docker, etc
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sjey5@icloud.com](mailto:sjey5@icloud.com)
