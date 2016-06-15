@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adding IF condition to your cloudformation stack!
+title: Adding IF condition to your cloudformation template!
 ---
 
 In this post I am going to show how to add IF condition in your cloudformation template. The idea is to have unified cloudformation template for ELB and EC2 based healthchecks.
