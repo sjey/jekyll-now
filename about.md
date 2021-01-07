@@ -8,7 +8,7 @@ I am Jey and my co-workers call me sjey. I work as a Cloud Solutions Architect i
 
 ### More Information
 
-I have a master degree in computer application. My pasion is about cloud, automation, CI/CD, Docker, etc
+I have a master degree in computer application. My pasion is about cloud, automation, CI/CD, kubernetes and photography.
 
 ### Contact me
 
